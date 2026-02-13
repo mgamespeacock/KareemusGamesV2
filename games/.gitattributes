@@ -1,0 +1,4 @@
+baldi filter=lfs diff=lfs merge=lfs -text
+pokemonblue filter=lfs diff=lfs merge=lfs -text
+fnaf filter=lfs diff=lfs merge=lfs -text
+subway filter=lfs diff=lfs merge=lfs -text
